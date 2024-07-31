@@ -117,7 +117,7 @@
         </ul>
     </section>
     <footer>
-        <p>Свяжитесь со мной: <a href="mailto:Tuner208@yandex.ru">ippolit@example.com</a> или в Telegram <a href="https://t.me/ippalitzapchasti" target="_blank">@ippalitzapchasti</a></p>
+        <p>Свяжитесь со мной: <a href="mailto:Tuner208@yandex.ru">Tuner208@yandex.rum</a> или в Telegram <a href="https://t.me/ippalitzapchasti" target="_blank">@ippalitzapchasti</a></p>
     </footer>
 </body>
 </html>
